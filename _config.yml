@@ -1,0 +1,28 @@
+name: Website Express
+favicon: null
+layout_spectrum: 0.3501160617452115
+typography_spectrum: 0.6590776271186769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.33627602038905025
+  lightness: 0.903831546427682
+  saturation: 0.6670205811969936
+  rhythmicContrast: 0.4790732483379543
+purpose: []
